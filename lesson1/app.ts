@@ -1,0 +1,2 @@
+// type unknown means that we do not know what the type is at the time but it is more restrictive than any
+// return type never can be used for functions that never return anything (unlike void which can return other things)
